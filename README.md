@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JesusRG99
 - 👀 I’m interested in learning how to code cool things!
-- 🌱 I’m currently learning JavaScript and Python!
+- 🌱 I’m currently learning Python and DevOps!
 - 💞️ I’m looking to collaborate on Open Source Projects!
 - 📫 How to reach me via ...
 - 😄 Pronouns: ...
