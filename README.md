@@ -42,8 +42,7 @@ Reusable Terraform modules for managing DigitalOcean resources.
 
 ## 📫 Contact Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jesusruizguirado)
+- **LinkedIn:** [Jesus Ruiz](https://www.linkedin.com/in/jesusruizguirado)
   
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 <!---
